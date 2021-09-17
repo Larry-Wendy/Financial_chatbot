@@ -1,0 +1,309 @@
+## intent:greet
+- hey
+- hello
+- hi
+- Hey
+- Hello
+- Hi
+- good morning
+- good evening
+- hey there
+- hey mooda
+- hello mooda
+- hi mooda
+- good morning mooda
+- good evening mooda
+- hey there mooda
+- hey Mooda
+- hello Mooda
+- hi Mooda
+- good morning Mooda
+- good evening Mooda
+- hey there Mooda
+- Hey mooda
+- Hello mooda
+- Hi mooda
+- Good morning mooda
+- Good evening mooda
+- Hey there mooda
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+- see you
+- bye mooda
+- byebye
+- bye~
+- BYE!
+- goodbye!
+- goodbye~
+- byebye, mooda
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- ok
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+- are you a
+- you are a
+- who are you
+- who are u
+- u are a
+- are u a
+- you pig
+- you are a pig
+- what are you
+- what is your name
+- your name
+- who are you
+- who are u
+- what u name
+- tell me your name
+- introduce yourself
+- what can you do
+- can you
+- you can do
+- can you do
+
+## intent:work_stock_search
+- i want know about [MSFT](stock)
+- help me find [TSLA](stock)
+- tell me [AAPL](stock)
+- search [GOOG](stock)
+- what is [FB](stock)
+- tell me [TSLA](stock)
+- find [AMD](stock)
+- can you tell me about [AMZN](stock)
+- no i want know about [BA](stock)
+- no, help me find [MSFT](stock)
+- none of them, tell me [NIO](stock)
+- none of them. search [GOOG](stock)
+- not one of them what is [AMZN](stock)
+- not, tell me [AAPL](stock)
+- this is not what I want. find [FB](stock)
+- not them can you tell me about [AMD](stock)
+- the information about [TSLA](stock)
+- [TSLA](stock)
+- [AMZN](stock)
+- what is [AAPL](stock)
+- give me information of [AAPL](stock)
+- information
+- tell me about
+- tell me of
+- find the 
+- find the info
+- search
+- show me information of [AAPL](stock)
+- introduction
+- give me information of [AAPL](stock)
+- give me introduction of [AAPL](stock)
+- show me introduction
+- i want know [AAPL](stock)
+
+## intent:work_find_point
+- [High](point) point please
+- i want know about [low](point) point
+- help me find the [highest](point) location
+- tell me the point of [lowest](point)
+- search [high](point)
+- what is the [highest](point)
+- tell me [low](point) point
+- find [low](point) point
+- can you tell me about the [lowest](point) point
+- the information about [low](point) point
+- [High](point)
+- [Low](point)
+- what is [high](point) point
+- give me information of [high](point) point
+- information [low](point) point
+- tell me about [low](point) point
+- tell me of [high](point) point
+- find the the [highest](point) location
+- find the info [high](point)
+- search [low](point)
+- show me information of the [lowest](point) point
+- introduction the [lowest](point) point
+- give me information of [low](point)
+- give me introduction of [high](point)
+- show me introduction [low](point) point
+- i want know [low](point) point
+
+## intent:work_currency_search
+- i want know about [JPY](currency) to [EUR](currency)
+- help me find [USD](currency) to [CNY](currency)
+- tell me [GBP](currency) to [JPY](currency)
+- search [JPY](currency) to [USD](currency)
+- what is [KRW](currency) to [CNY](currency)
+- tell me [THB](currency) to [EUR](currency)
+- find [JPY](currency) to [EUR](currency)
+- can you tell me about [GBP](currency) to [USD](currency)
+- no i want know about [JPY](currency) to [CNY](currency)
+- no, help me find [USD](currency) to [THB](currency)
+- none of them, tell me [THB](currency) to [EUR](currency)
+- none of them. search [JPY](currency) to [EUR](currency)
+- not one of them what is [CNY](currency) to [USD](currency)
+- not, tell me [THB](currency) to [EUR](currency)
+- this is not what I want. find [KRW](currency) to [CNY](currency)
+- not them can you tell me about [USD](currency) to [CNY](currency)
+- the information about [JPY](currency) to [CNY](currency)
+- [JPY](currency) to [EUR](currency)
+- [THB](currency) to [EUR](currency)
+- what is [USD](currency) to [THB](currency)
+- give me information of [KRW](currency) to [CNY](currency)
+- information [USD](currency) to [CNY](currency)
+- tell me about [USD](currency) to [CNY](currency)
+- tell me of [JPY](currency) to [EUR](currency)
+- find the [USD](currency) to [CNY](currency)
+- find the info [KRW](currency) to [CNY](currency)
+- search [KRW](currency) to [CNY](currency)
+- show me information of [USD](currency) to [CNY](currency)
+- introduction [USD](currency) to [CNY](currency)
+- give me information of [USD](currency) to [CNY](currency)
+- give me introduction of [USD](currency) to [CNY](currency)
+- show me introduction [USD](currency) to [CNY](currency)
+- i want know [USD](currency) to [CNY](currency)
+
+## intent:work_function_search
+- i want know about [stocks](function)
+- help me find [Stock](function)
+- tell me [currency](function)
+- search [currencies](function)
+- what is [stock](function)
+- tell me [Currency](function)
+- find [currency](function)
+- can you tell me about [stocks](function)
+- no i want know about [stocks](function)
+- no, help me find [Stock](function)
+- none of them, tell me [stock](function)
+- none of them. search [stock](function)
+- not one of them what is [currency](function)
+- not, tell me [Currency](function)
+- this is not what I want. find [stock](function)
+- not them can you tell me about [currencies](function)
+- the information about [currency](function)
+- [stock](function)
+- [currency](function)
+- what is [stocks](function)
+- give me information of [stocks](function)
+- information [stocks](function)
+- tell me about [currency](function)
+- tell me of [currencies](function)
+- find the [currencies](function)
+- find the info [Currency](function)
+- search [Currency](function)
+- show me information of [stocks](function)
+- introduction [stocks](function)
+- give me information of [stock](function)
+- give me introduction of [stock](function)
+- show me introduction [Currencies](function)
+- i want know [Currencies](function)
+
+## intent:work_digitalcurrency_search
+- i want know about [BTC](digitalcurrency) to [EUR](currency)
+- help me find [ETH](digitalcurrency) to [CNY](currency)
+- tell me [DOGE](digitalcurrency) to [JPY](currency)
+- search [DOGE](digitalcurrency) to [USD](currency)
+- what is [BTC](digitalcurrency) to [CNY](currency)
+- tell me [ETH](digitalcurrency) to [EUR](currency)
+- find [DOGE](digitalcurrency) to [EUR](currency)
+- can you tell me about [ETH](digitalcurrency) to [USD](currency)
+- no i want know about [ETH](digitalcurrency) to [GBP](currency)
+- no, help me find [BTC](digitalcurrency) to [THB](currency)
+- none of them, tell me [DOGE](digitalcurrency) to [KRW](currency)
+- none of them. search [DOGE](digitalcurrency) to [EUR](currency)
+- not one of them what is [BTC](digitalcurrency) to [USD](currency)
+- not, tell me [ETH](digitalcurrency) to [EUR](currency)
+- this is not what I want. find [DOGE](digitalcurrency) to [KRW](currency)
+- not them can you tell me about [BTC](digitalcurrency) to [CNY](currency)
+- the information about [ETH](digitalcurrency) to [CNY](currency)
+- [DOGE](digitalcurrency) to [EUR](currency)
+- [BTC](digitalcurrency) to [EUR](currency)
+- what is [ETH](digitalcurrency) to [THB](currency)
+- give me information of [DOGE](digitalcurrency) to [THB](currency)
+- information [BTC](digitalcurrency) to [CNY](currency)
+- tell me about [ETH](digitalcurrency) to [CNY](currency)
+- tell me of [DOGE](digitalcurrency) to [EUR](currency)
+- find the [BTC](digitalcurrency) to [CNY](currency)
+- find the info [ETH](digitalcurrency) to [CNY](currency)
+- search [DOGE](digitalcurrency) to [CNY](currency)
+- show me information of [BTC](digitalcurrency) to [CNY](currency)
+- introduction [ETH](digitalcurrency) to [CNY](currency)
+- give me information of [DOGE](digitalcurrency) to [CNY](currency)
+- give me introduction of [BTC](digitalcurrency) to [CNY](currency)
+- show me introduction [ETH](digitalcurrency) to [CNY](currency)
+- i want know [DOGE](digitalcurrency) to [CNY](currency)
+
+## intent:work_plot
+- tell me the plot of [price](plotcontent) [weekly](plotrange)
+- plot [price-change](plotcontent) [daily](plotrange)
+- draw [volume-change](plotcontent) [intraday](plotrange)
+- tell me the picture of [volume](plotcontent) [monthly](plotrange)
+- the plot [price-change](plotcontent) [day to day](plotrange)
+- [price](plotcontent) [in days](plotrange)
+- what is the chart about [volume-change](plotcontent) [in one day](plotrange)
+- show me the plot of [price](plotcontent) [in days](plotrange)
+- give me the plot of [price-change](plotcontent) [within a day](plotrange)
+- draw the picture of [price-change](plotcontent) [in months](plotrange)
+- the plot of [price-change](plotcontent) [in months](plotrange)
+- what is the story tells
+- what does it tell
+- what is the plot [price-change](plotcontent) [week to week](plotrange)
+- picture of [price-change](plotcontent) [in months](plotrange)
+- chart [price-change](plotcontent) [intraday](plotrange)
+- the chart of [price-change](plotcontent) [in weeks](plotrange)
+- Plot [volume](plotcontent) [in weeks](plotrange)
+- the story
+- tell me plot of [volume-change](plotcontent) in [one day](plotrange)
+- i want know plot [price-change](plotcontent) [month to month](plotrange)
+- i want plot of [price-change](plotcontent) [in a day](plotrange)
+
+## intent:thanks
+- thanks
+- Thanks
+- Thank you
+- thank you mooda
+- thank u
+- you helped a lot
+- you help me a lot
+- you did help
+- you helped
