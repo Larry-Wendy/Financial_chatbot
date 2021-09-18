@@ -12,7 +12,7 @@ Here are some displays.
 
 ### Find Larry_Stoker_Robot
 Install telegram on your PC and then open it, search "Stoker Robot". You will find Larry-Stocker-Robot.<br>
-![](https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/1-searchbot.gif).<img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="300" height="450" />
+![](https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/1-searchbot.gif).<width="300" height="450"/>
 
 ### Starting chat
 Click start bottom or send text "/start" to activate chat robot!<br>
