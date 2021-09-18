@@ -11,4 +11,6 @@ Here are some displays.
 ## Usage
 
 ### Find Larry_Stoker_Robot
-Install telegram on your PC, 
+Install telegram on your PC and then open it, search "Stoker Robot". You will find Larry-Stocker-Robot.<br>
+![]https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/1-searchbot.gif
+
