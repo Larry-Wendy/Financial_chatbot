@@ -14,3 +14,14 @@ Here are some displays.
 Install telegram on your PC and then open it, search "Stoker Robot". You will find Larry-Stocker-Robot.<br>
 ![](https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/1-searchbot.gif)
 
+### Starting chat
+Click start bottom or send text "/start" to activate chat robot!<br>
+You can say hi to her and start chit chat with her.<br>
+![]()
+
+### Stocks search work
+
+### Currency search work
+
+### Total display
+![]()
