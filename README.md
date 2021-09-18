@@ -16,18 +16,18 @@ Install telegram on your PC and then open it, search "Stoker Robot". You will fi
 
 ### Starting chat
 Click start bottom or send text "/start" to activate chat robot!<br>
-You can say hi to her and start chit chat with her.<br>
-![](https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/2-chichatbot.gif)
+You can say hi to her and start chit chat with her.<br><br>
+<img src="https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/2-chichatbot.gif" width="700" height="450"/>
 
 ### Stocks search work
-If you want to get stock information, type "search stocks", "find stocks" or others to start function.
-Please follow the instruction from the robot.
-![](https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/3-stockwork.gif)
+If you want to get stock information, type "search stocks", "find stocks" or others to start function.<br>
+Please follow the instruction from the robot.<br><br>
+<img src="https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/3-stockwork.gif" width="700" height="450"/>
 
 ### Currency search work
-If you want to get currency exchange rate information, type "search currency", "find currency" or others to start function.
-Please follow the instruction from the robot.
-![](https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/4-currencywork.gif)
+If you want to get currency exchange rate information, type "search currency", "find currency" or others to start function.<br>
+Please follow the instruction from the robot.<br><br>
+<img src="https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/4-currencywork.gif" width="700" height="450"/>
 
 ### Total display
-![](https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/test1--%E7%A0%82%E7%BA%B8%E8%83%8C%E9%9D%A2.gif)
+<img src="https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/test1--%E7%A0%82%E7%BA%B8%E8%83%8C%E9%9D%A2.gif" width="700" height="450"/>
