@@ -30,7 +30,7 @@ Please follow the instruction from the robot.<br><br>
 <img src="https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/4-currencywork.gif" width="700" height="450"/>
 
 ### Total display
-<img src="https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/test1--%E7%A0%82%E7%BA%B8%E8%83%8C%E9%9D%A2.gif" width="700" height="450"/>
+<img src="https://github.com/Larry-Wendy/Financial_chatbot/blob/main/Gif/test1--%E7%A0%82%E7%BA%B8%E8%83%8C%E9%9D%A2.gif" width="700" height="550"/>
 
 ## Related APIs
 To implement the function, the following APIs are used, visit them to learn more.<br>
